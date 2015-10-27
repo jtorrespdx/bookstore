@@ -1,3 +1,17 @@
+bookstore code review
+database: bookstore_database
+user: bookstore_admin
+pswd: password
+
+user:admin
+pswd: password
+
+user: reviewer
+pswd: password
+
+user: authenticated
+pswd: password
+
 
 CONTENTS OF THIS FILE
 ---------------------
